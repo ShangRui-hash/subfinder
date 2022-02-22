@@ -45,7 +45,7 @@ func (s *Source) Run(ctx context.Context, domain string, session *subscraping.Se
 			resp, err := session.HTTPRequest(
 				ctx,
 				"POST",
-				"https://www.censys.io/api/v1/search/certificates",
+				"https://search.censys.io/api/v1/search/certificates",
 				"",
 				map[string]string{"Content-Type": "application/json", "Accept": "application/json"},
 				bytes.NewReader(request),
