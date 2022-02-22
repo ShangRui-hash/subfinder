@@ -1,6 +1,6 @@
 # Build
 FROM golang:1.17-alpine AS build-env
-RUN go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+RUN go install -v github.com/ShangRui-hash/subfinder/v2/cmd/subfinder@latest
 
 # Release
 FROM alpine:3.14

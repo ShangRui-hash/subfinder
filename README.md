@@ -87,7 +87,7 @@ This will display help for the tool. Here are all the switches it supports.
 Subfinder requires **go1.17** to install successfully. Run the following command to get the repo -
 
 ```sh
-go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+go install -v github.com/ShangRui-hash/subfinder/v2/cmd/subfinder@latest
 ```
 
 
@@ -257,9 +257,9 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/passive"
-	"github.com/projectdiscovery/subfinder/v2/pkg/resolve"
-	"github.com/projectdiscovery/subfinder/v2/pkg/runner"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/passive"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/resolve"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/runner"
 )
 
 func main() {

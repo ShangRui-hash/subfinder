@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/subscraping"
 )
 
 type searchResponseType struct {

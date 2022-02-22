@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/subscraping"
 )
 
 // zoomAuth holds the ZoomEye credentials

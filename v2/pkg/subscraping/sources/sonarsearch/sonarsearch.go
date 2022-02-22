@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/subscraping"
 )
 
 // Source is the passive scraping agent

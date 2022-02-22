@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/subscraping"
 	"gopkg.in/yaml.v3"
 )
 

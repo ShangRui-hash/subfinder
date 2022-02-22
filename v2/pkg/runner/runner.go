@@ -8,8 +8,8 @@ import (
 	"path"
 
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/subfinder/v2/pkg/passive"
-	"github.com/projectdiscovery/subfinder/v2/pkg/resolve"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/passive"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/resolve"
 )
 
 // Runner is an instance of the subdomain enumeration

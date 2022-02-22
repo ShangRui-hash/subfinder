@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/projectdiscovery/subfinder/v2/pkg/resolve"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/resolve"
 )
 
 // OutPutter outputs content to writers.

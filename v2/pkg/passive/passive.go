@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/subscraping"
 )
 
 // EnumerateSubdomains enumerates all the subdomains for a given domain

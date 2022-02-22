@@ -4,7 +4,7 @@ package spyse
 import (
 	"context"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/ShangRui-hash/subfinder/v2/pkg/subscraping"
 	spyse "github.com/spyse-com/go-spyse/pkg"
 )
 
